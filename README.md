@@ -41,7 +41,7 @@ Simulink is a graphical block diagram environment integrated within MATLAB. It i
 5. **Viewing Output:** Use the **Scope** block (found in Sinks) to visualize the final modulated signal over time.
 6. **Running Simulation:** Set the "Stop Time" at the top menu bar (e.g., 10 seconds) and click the green **Run** button to execute the simulation.
 
-## 🚀 How to Run This Project
+## 🚀 How to Run This Project-
 1. Clone this repository to your local machine:
    ```bash
    git clone [https://github.com/mahircce/Digital-Communication-Engineering-Sessional.git](https://github.com/mahircce/Digital-Communication-Engineering-Sessional.git)
