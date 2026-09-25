@@ -1,4 +1,4 @@
-# 📡 Digital Communication Engineering Sessional and Mobile and wireless
+# 📡 Digital Communication Engineering Sessional and Mobile and wireless system 
 
 <div align="center">
   <img src="https://img.shields.io/badge/Language-MATLAB-F8762D?style=for-the-badge&logo=mathworks" alt="MATLAB">
