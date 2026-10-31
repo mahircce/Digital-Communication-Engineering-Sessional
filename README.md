@@ -44,4 +44,4 @@ Simulink is a graphical block diagram environment integrated within MATLAB. It i
 ## 🚀 How to Run This Project-
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/mahircce/Digital-Communication-Engineering-Sessional.git](https://github.com/mahircce/Digital-Communication-Engineering-Sessional.git)
+   git clone [https://github.com/mahircce/Digital-Communication-Engineering-Sessional.git](https://github.com/mahircce/Digital-Communication-Engineering-Sessional.git) 
