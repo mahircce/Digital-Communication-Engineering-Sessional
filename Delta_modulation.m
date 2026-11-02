@@ -7,7 +7,7 @@ plot(x);
 hold on;
 y = (0);
 xr = 0;
-del = 0.25;
+del = 0.42;
 for i = 1:length(x)-1;
  if xr(i) < x(i) d = 1;
  xr(i+1) = xr(i) + del;
